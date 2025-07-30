@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Local-First Users App",
   description: "Offline-capable user directory with local caching",
-    generator: 'v0.dev'
+  generator: 'Lukas Silins'
 }
 
 export default function RootLayout({
